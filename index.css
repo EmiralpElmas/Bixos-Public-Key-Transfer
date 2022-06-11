@@ -155,7 +155,7 @@ body {
   .container {
   max-width: 550px;
   width: 100%;
-  margin-left: 750px;
+  margin-left: 650px;
   margin-top: 200px;
   position: relative;
   }
@@ -166,6 +166,7 @@ body {
   font: 500 12px/16px "Roboto", Helvetica, Arial, sans-serif;
   }
   #contact {
+    border-radius: 24px;
     background-color: #042d20;
   padding: 25px;
   margin: 100px 0;
