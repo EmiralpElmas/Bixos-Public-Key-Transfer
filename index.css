@@ -17,6 +17,14 @@ box-sizing: border-box;
   background-color: #042d20;
   justify-content: center;
   height: 80px;
+  
+    -webkit-box-align: center; -moz-box-align: center;
+  -ms-flex-align: center;   
+  -webkit-box-pack: center; -moz-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  
 }
 
 .button{
