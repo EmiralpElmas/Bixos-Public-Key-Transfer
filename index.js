@@ -1,9 +1,4 @@
-const modulbtn=document.getElementById("submit");
-const modul=document.querySelector(".modal");
 const connectBtn = document.querySelector(".button");
-const modulkapat=document.getElementById("modal-kapat");
-const accounttxt=document.querySelector(".account");
-const publictxt=document.querySelector(".public");
 
 
 connectBtn.addEventListener("click",async ()=>{
